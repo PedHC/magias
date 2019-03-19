@@ -1,8 +1,0 @@
-1210 for train
-
-519 for test
-    Where:
-    242 from unacc(20%)
-    192 from acc(50%)
-    42 from good(60%)
-    43 from vgood(66%)
