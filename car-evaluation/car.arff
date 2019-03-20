@@ -5,8 +5,8 @@
 
 @ATTRIBUTE buy_price STRING
 @ATTRIBUTE maint_price STRING
-@ATTRIBUTE doors NUMERIC
-@ATTRIBUTE persons NUMERIC
+@ATTRIBUTE doors STRING
+@ATTRIBUTE persons STRING
 @ATTRIBUTE lug_boot STRING
 @ATTRIBUTE safety STRING
 @ATTRIBUTE class {unacc,acc,good,vgood}
